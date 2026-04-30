@@ -1,1 +1,3 @@
 sphinx-design
+sphinx>=7.0
+furo>=2024.0.0
