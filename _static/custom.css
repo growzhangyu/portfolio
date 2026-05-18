@@ -107,3 +107,24 @@ aside.sidebar-container {
     letter-spacing: 0.5px;
     opacity: 0.85;
 }
+
+.no-zoom {
+    pointer-events: none;
+}
+
+.language-switcher {
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;       /* 强制不换行 */
+    gap: 8px;                  /* a 标签之间间距 */
+}
+
+.language-switcher a {
+    text-decoration: none;
+    color: var(--color-foreground-primary);
+    margin: 0;                 /* 用 gap 控制间距，不用 margin */
+}
+
+.language-switcher a:hover {
+    opacity: 0.7;
+}

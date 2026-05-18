@@ -1,15 +1,20 @@
 Growzhangyu's portfolio
-====
+================================
 
-Technical Documentation & Content Support
-----------------------------------------
+Technical Documentation · Content Design · English Communication
+----------------------------------------------------------------------
 
-Welcome to growzhangyu's portfolio! I'll be guiding you through some of my recent documentation projects.
+I create clear, structured, and user-focused documentation, learning content, and communication resources.
 
-I focus on creating clear, structured, and user-friendly technical content. Let's take a look at the following projects immediately.
+My work focuses on simplifying complex information, improving readability, and organizing content into practical learning and communication systems.
+
+This portfolio includes technical documentation projects, communication-focused content, and long-term self-directed practice.
+
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :titlesonly:
 
    projects
-   about_me
+   english_learning/index
+   about_me/index

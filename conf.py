@@ -34,9 +34,29 @@ html_last_updated_fmt = '%Y-%m-%d %H:%M:%S'
 extensions = ['sphinx_last_updated_by_git']
 html_static_path = ['_static']
 extensions = [
-    "sphinx_design",
+    "sphinx_design", 
+    "sphinxcontrib.lightbox2",
 ]
 html_css_files = [
     'custom.css',
 ]
 html_favicon = '_static/favicon.ico'
+
+html_js_files = [
+    "custom.js",
+]
+
+html_theme = "furo"
+html_theme_options = {
+    "footer_icons": [],
+}
+
+html_theme = "furo"
+
+html_theme_options = {
+    "footer_icons": [],  # 可选，清空默认图标
+}
+
+html_context = {
+    "footer_extra": "_templates/footer_extra.html",
+}
