@@ -1,5 +1,5 @@
-Speaking
-=========
+IELTS Speaking
+===============
 
 
 Focus: 
@@ -7,7 +7,24 @@ Focus:
 
 .. rubric:: spoken fluency, structured responses, and natural expression under exam conditions.
 
+- **5 General Ways to Generate Natural Answers**
+
+  *Focus*:
+   developing authentic spoken responses through five thinking frameworks: examining 
+   internal and external factors, moving from general ideas to specific details, 
+   using concessions, creating "it depends" scenarios, and drawing on a personal 
+   interest bank.
+
+  *Featured Example*:
+
+  .. image:: _static/5Ways.png
+   :width: 50%
+   :align: center
+
+  .. centered:: `5 Perspectives for Generating Natural Answers <https://mp.weixin.qq.com/s?__biz=Mzg4Nzc2MjI0Mw==&mid=2247487302&idx=1&sn=30eea1b0cbc7c1b8546d5bd3f7b7d09d&chksm=cf84336af8f3ba7c66b628a2abc87a69da1bf79b8f599572a12bc6bfbbd6fe17d234dc2f3935&scene=178&cur_album_id=4182235489874690065&search_click_id=#rd>`_
+
 - **Natural Collocation Collection & Application**
+
 
   *Focus*:
     improving fluency through high-frequency collocations
@@ -39,7 +56,7 @@ Focus:
   .. centered:: `The Three-Sentence Method for Part 1 <https://mp.weixin.qq.com/s/hDjjtV60EDj893MD8g0UdA>`_   
 
 
-- **Part 2 Intensive practice: Building a Logical Framework**  
+- **Part 2 Intensive Practice: Building a Logical Framework**  
   
   *Focus*: 
     understanding how to structure Part 2 answers logically

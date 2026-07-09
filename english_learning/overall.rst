@@ -5,7 +5,7 @@ Focus:
 --------
 .. rubric:: time management, personal growth, practical life insights, and motivation management 
 
-- **High-quality English learning resources covering and personal growth and self-management**   
+- **High-quality English Learning Resources Covering and Personal Growth and Self-management**   
   
   *Focus*: 
     personal development topics such as planning, stress management, emotional regulation, overcoming procrastination and building sustainable motivation  
@@ -17,7 +17,7 @@ Focus:
    :align: center
 
 
-  .. centered:: `Harvard ManageMentor Topic: Stress Management  <https://mp.weixin.qq.com/s?__biz=Mzg4Nzc2MjI0Mw==&mid=2247487158&idx=1&sn=35bbd6c11d46e82c58b616a1adcd3a24&chksm=cf84329af8f3bb8c71b3c7426cfcc908952451e5f8a562ac11d3fb2d21b1346978c8e680a5a3&scene=178&cur_album_id=4182241668671684615&search_click_id=#rd>`_ 
+  .. centered:: `Harvard ManageMentor Topic: Stress Management  <https://mp.weixin.qq.com/s?__biz=Mzg4Nzc2MjI0Mw==&mid=2247487199&idx=1&sn=87a368b7c25c85279c2fbe4ab2debd12&chksm=cf8432f3f8f3bbe5712b2868da85cac518fc933ece9cab9fd03dc4b8a41b735f845b957c8800&scene=178&cur_album_id=4182241668671684615&search_click_id=#rd>`_ 
 
 
   *Featured Example*:

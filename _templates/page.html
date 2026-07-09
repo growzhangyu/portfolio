@@ -1,23 +1,41 @@
 {% extends "!page.html" %}
 
 {% block footer %}
-  {{ super() }}
+    {{ super() }}
 
-  <!-- 动态在版权行后插入 ICP 备案号 -->
-  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      // 找到 Furo 的第一个版权段落
-      const footerInner = document.querySelector(".footer__inner");
-      if (!footerInner) return;
+    <div class="footer__extra"
+         style="text-align: center;
+                margin-top: 0.3em;
+                font-size: 0.9em;
+                color: inherit;
+                line-height: 1.4;">
 
-      // 查找第一个 <p> 或直接插入到 footer__inner
-      const firstP = footerInner.querySelector("p");
-      if (firstP) {
-        // 在版权段落末尾添加 ICP
-        const icp = document.createElement("span");
-        icp.innerHTML = " · <a href='https://beian.miit.gov.cn/' target='_blank' style='color: inherit; text-decoration: none;'>鄂ICP备2026022688号</a>";
-        firstP.appendChild(icp);
-      }
-    });
-  </script>
+        <!-- ICP备案 -->
+        <div>
+            <a href="https://beian.miit.gov.cn/"
+               target="_blank"
+               style="color: inherit; text-decoration: none;">
+                鄂ICP备2026022688号
+            </a>
+        </div>
+
+        <!-- 公安备案 -->
+        <div style="margin-top: 0.15em;">
+            <a href="https://beian.mps.gov.cn/#/query/webSearch"
+               target="_blank"
+               style="color: inherit;
+                      text-decoration: none;
+                      display: inline-flex;
+                      align-items: center;
+                      gap: 4px;">
+
+                <img src="{{ pathto('_static/beian.png', 1) }}"
+                     alt="公安备案图标"
+                     style="width: 16px; height: 16px;">
+
+                粤公网安备44030002012786号
+            </a>
+        </div>
+
+    </div>
 {% endblock %}

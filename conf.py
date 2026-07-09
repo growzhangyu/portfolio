@@ -9,7 +9,7 @@
 project = 'portfolio'
 copyright = '2026, growzhangyu'
 author = 'growzhangyu'
-release = '0.1'
+release = '0.2'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -24,39 +24,30 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'furo'
-html_static_path = ['_static']
-html_theme_options = {
-    "sidebar_hide_name": False,
-}
-templates_path = ['_templates']
-html_last_updated_fmt = '%Y-%m-%d %H:%M:%S'
-extensions = ['sphinx_last_updated_by_git']
-html_static_path = ['_static']
 extensions = [
-    "sphinx_design", 
+    "sphinx_design",
+    "sphinx_last_updated_by_git",
     "sphinxcontrib.lightbox2",
 ]
+
+templates_path = ["_templates"]
+
+html_theme = "furo"
+
+html_theme_options = {
+    "sidebar_hide_name": False,
+    "footer_icons": [],
+}
+
+html_static_path = ["_static"]
+
 html_css_files = [
-    'custom.css',
+    "custom.css",
 ]
-html_favicon = '_static/favicon.ico'
 
 html_js_files = [
     "custom.js",
 ]
 
-html_theme = "furo"
-html_theme_options = {
-    "footer_icons": [],
-}
-
-html_theme = "furo"
-
-html_theme_options = {
-    "footer_icons": [],  # 可选，清空默认图标
-}
-
-html_context = {
-    "footer_extra": "_templates/footer_extra.html",
-}
+html_last_updated_fmt = "%Y-%m-%d %H:%M:%S"
+html_favicon = "_static/favicon.ico"

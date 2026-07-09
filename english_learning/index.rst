@@ -15,6 +15,7 @@ Content Areas
    :maxdepth: 1
 
    speaking
+   speaking_practice
    writing
    reading
    listening

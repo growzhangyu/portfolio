@@ -11,6 +11,8 @@ Focus:
     practicing with authentic IELTS listening tests
     improving accuracy, timing, and information extraction skills
 
+*Featured Example*:
+
 .. image:: _static/lis0.png
    :width: 50%
    :align: center
