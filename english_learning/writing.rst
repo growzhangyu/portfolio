@@ -8,7 +8,8 @@ Focus:
 - **Avoid Practicing IELTS Writing In a Negative or Aimless Way**  
   
   *Focus*: 
-    giving real examples of practicing IELTS Writing in the wrong ways and 
+    
+    Giving real examples of practicing IELTS Writing in the wrong ways and 
     the lessons you can learn from them 
   
   *Featured Example*:
@@ -23,7 +24,8 @@ Focus:
 - **Make Brainstorming a Natural Skill**  
   
   *Focus*: 
-    providing concrete steps for brainstorming practice 
+    
+    Providing concrete steps for brainstorming practice 
   
   *Featured Example*:
 
@@ -37,7 +39,8 @@ Focus:
 - **IELTS Writing Structural Framework**  
 
   *Focus*: 
-    organizing ideas logically and improving coherence across paragraphs  
+    
+    Organizing ideas logically and improving coherence across paragraphs  
   
   *Featured Example*:
 
@@ -52,7 +55,8 @@ Focus:
 - **Argumentation Steps In Abstract Topics**  
   
   *Focus*: 
-    providing a reusable 'mechanism chain' template that breaks abstract 
+    
+    Providing a reusable 'mechanism chain' template that breaks abstract 
     conclusions (e.g., identity,wellbeing,development) into clear steps
   
   *Featured Example*:
@@ -68,7 +72,8 @@ Focus:
 - **14-Day Writing Improvement System**  
   
   *Focus*: 
-    building topic-related collocations through intensive writing practice  
+    
+    Building topic-related collocations through intensive writing practice  
   
   *Featured Example*:
 

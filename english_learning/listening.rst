@@ -8,7 +8,8 @@ Focus:
 - **IELTS Listening Practice: Real Exam Materials**
 
 *Focus*:
-    practicing with authentic IELTS listening tests
+    
+    Practicing with authentic IELTS listening tests
     improving accuracy, timing, and information extraction skills
 
 *Featured Example*:
@@ -24,7 +25,8 @@ Focus:
 - **Podcast-Based Listening Development**  
   
   *Focus*: 
-    improving comprehension through authentic and varied listening input  
+    
+    Improving comprehension through authentic and varied listening input  
   
   *Featured Example*:
 
@@ -41,7 +43,8 @@ Focus:
 - **Intensive Practice: Studio Classroom Advanced Material**  
   
   *Focus*: 
-    detailed comprehension of fast, natural speech without transcripts  
+    
+    Detailed comprehension of fast, natural speech without transcripts  
   
   *Featured Example*:
 

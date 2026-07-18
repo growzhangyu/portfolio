@@ -14,7 +14,6 @@ release = '0.2'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -29,9 +28,6 @@ extensions = [
     "sphinx_last_updated_by_git",
     "sphinxcontrib.lightbox2",
 ]
-
-templates_path = ["_templates"]
-
 html_theme = "furo"
 
 html_theme_options = {

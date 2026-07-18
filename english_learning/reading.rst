@@ -8,6 +8,7 @@ Focus:
 - **Complex Sentence Structure Analysis**  
   
   *Focus*: 
+    
     Breaking down complex sentence structures
     to improve reading accuracy and comprehension
   
@@ -24,7 +25,8 @@ Focus:
 - **Skimming & Scanning Technique Practice**  
   
   *Focus*: 
-    improving speed and accuracy in locating relevant information in IELTS reading tasks
+    
+    Improving speed and accuracy in locating relevant information in IELTS reading tasks
   
   *Featured Example*:
 
@@ -39,7 +41,8 @@ Focus:
 - **Repeated Practice: IELTS Reading Passage (C19-T1-P2)**  
   
   *Focus*: 
-    strengthening comprehension and retention through deliberate repetition and review cycles 
+    
+    Strengthening comprehension and retention through deliberate repetition and review cycles 
   
   *Featured Example*:
 
@@ -54,7 +57,8 @@ Focus:
 - **BBC Learning English Reading Practice (Selected Materials)**  
   
   *Focus*: 
-    understanding natural English in real-world contexts and improving reading fluency through authentic input  
+    
+    Understanding natural English in real-world contexts and improving reading fluency through authentic input  
   
   *Featured Example*:
 

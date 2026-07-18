@@ -10,7 +10,8 @@ Focus:
 - **5 General Ways to Generate Natural Answers**
 
   *Focus*:
-   developing authentic spoken responses through five thinking frameworks: examining 
+   
+   Developing authentic spoken responses through five thinking frameworks: examining 
    internal and external factors, moving from general ideas to specific details, 
    using concessions, creating "it depends" scenarios, and drawing on a personal 
    interest bank.
@@ -21,29 +22,35 @@ Focus:
    :width: 50%
    :align: center
 
-  .. centered:: `5 Perspectives for Generating Natural Answers <https://mp.weixin.qq.com/s?__biz=Mzg4Nzc2MjI0Mw==&mid=2247487302&idx=1&sn=30eea1b0cbc7c1b8546d5bd3f7b7d09d&chksm=cf84336af8f3ba7c66b628a2abc87a69da1bf79b8f599572a12bc6bfbbd6fe17d234dc2f3935&scene=178&cur_album_id=4182235489874690065&search_click_id=#rd>`_
+  .. centered:: `5 Perspectives for Generating Natural Answers <https://mp.weixin.qq.com/s?__biz=Mzg4Nzc2MjI0Mw==&mid=2247487302&idx=1&sn=30eea1b0cbc7c1b8546d5bd3f7b7d09d&chksm=cf84336af8f3ba7c66b628a2abc87a69da1bf79b8f599572a12bc6bfbbd6fe17d234dc2f3935&scene=178&cur_album_id=4182235489874690065&search_click_id=#rd>`_  
+  
 
-- **Natural Collocation Collection & Application**
-
+- **IELTS Speaking Skeleton Framework**
 
   *Focus*:
-    improving fluency through high-frequency collocations
-    used in authentic communication contexts
+   
+   Understanding why spoken answers easily break down under pressure, and building a stable sentence skeleton for 
+   IELTS Speaking Part 1 and Part 2 through 12 safe sentence patterns and 3 exam-mode rules.
 
   *Featured Example*:
 
-  .. image:: _static/sp1.png
+  .. image:: _static/Part1.png
    :width: 50%
    :align: center
 
+  .. centered:: `12 Skeleton for Part 1 and Part 2 <https://mp.weixin.qq.com/s/ZAn6VSyVgCngDfDKGsACJA>`_
 
-  .. centered:: `How to Use "Blow My Mind" <https://mp.weixin.qq.com/s/H1SZPUSN3mOR9ez0z-sj_g>`_   
-  
+.. 我在自学口语过程中遇到的多个问题及解决方案
+.. https://mp.weixin.qq.com/s/F7fdo0hMlcuHYHXb0DlTnw
+
+.. Part 2分解示例：客观题的应对方法
+.. https://mp.weixin.qq.com/s/HVjpXjV_DqPUXediWIGVCw
 
 - **IELTS Speaking Strategy for Part 1**  
   
   *Focus*: 
-    building controllable and comprehensive answer structures
+    
+    Building controllable and comprehensive answer structures
     under time pressure  
 
   *Featured Example*:
@@ -59,7 +66,8 @@ Focus:
 - **Part 2 Intensive Practice: Building a Logical Framework**  
   
   *Focus*: 
-    understanding how to structure Part 2 answers logically
+    
+    Understanding how to structure Part 2 answers logically
     and deliver detailed responses within two minutes   
   
   *Featured Example*:
@@ -76,7 +84,8 @@ Focus:
 - **Imitation Practice: Work-from-home Discussion**  
 
   *Focus*: 
-    pronunciation accuracy, rhythm control, and natural intonation patterns  
+    
+    Pronunciation accuracy, rhythm control, and natural intonation patterns  
   
   *Featured Example*:
 

@@ -8,7 +8,8 @@ Focus:
 - **High-quality English Learning Resources Covering and Personal Growth and Self-management**   
   
   *Focus*: 
-    personal development topics such as planning, stress management, emotional regulation, overcoming procrastination and building sustainable motivation  
+    
+    Personal development topics such as planning, stress management, emotional regulation, overcoming procrastination and building sustainable motivation  
   
   *Featured Example*:
 
