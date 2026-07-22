@@ -1,0 +1,70 @@
+name: Build and Deploy Sphinx Docs
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Set timezone
+        run: |
+          sudo timedatectl set-timezone Asia/Singapore
+          date    
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install sphinx furo sphinx-last-updated-by-git 
+          pip install -r requirements.txt
+
+
+      - name: Clean build
+        run: |
+          rm -rf _build
+          sphinx-build -b html . _build/html  
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _build/html
+
+      - name: Check installed packages
+        run: pip list
+
+      - name: Check build output
+        run: ls -R _build/html
+
+      - name: DEBUG TEST
+        run: echo "HELLO DEBUG"
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+    
