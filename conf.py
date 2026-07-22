@@ -46,4 +46,5 @@ html_js_files = [
 ]
 
 html_last_updated_fmt = "%Y-%m-%d %H:%M:%S"
+html_show_sourcelink = True
 html_favicon = "_static/favicon.ico"
