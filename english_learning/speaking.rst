@@ -46,6 +46,9 @@ Focus:
 .. Part 2分解示例：客观题的应对方法
 .. https://mp.weixin.qq.com/s/HVjpXjV_DqPUXediWIGVCw
 
+.. AI 练口语应遵循的二八法则
+.. https://mp.weixin.qq.com/s/QEddIX-ZvCYdaN-_OXYBcg
+
 - **IELTS Speaking Strategy for Part 1**  
   
   *Focus*: 
@@ -81,7 +84,7 @@ Focus:
 
 
 
-- **Imitation Practice: Work-from-home Discussion**  
+- **Imitation Practice: Building Mouth Muscles for Speaking**  
 
   *Focus*: 
     

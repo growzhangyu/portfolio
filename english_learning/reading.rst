@@ -67,5 +67,5 @@ Focus:
    :align: center
 
 
-  .. centered:: `Curated Daily Reading Materials: BBC Learning English  <https://mp.weixin.qq.com/s?__biz=Mzg4Nzc2MjI0Mw==&mid=2247485104&idx=1&sn=4000a84bbf02c542e3f68d94b598a68d&chksm=cf843a9cf8f3b38a3261a163f0e23b7695686f5a6661bb50d9d021c6db5d883372204ac28dd7&scene=178&cur_album_id=4182236262146719756&search_click_id=#rd>`_ 
+  .. centered:: `Curated Daily Reading Materials: BBC Learning English  <https://mp.weixin.qq.com/s?__biz=Mzg4Nzc2MjI0Mw==&mid=2247485104&idx=1&sn=4000a84bbf02c542e3f68d94b598a68d&chksm=cf843a9cf8f3b38a3261a163f0e23b7695686f5a6661bb50d9d021c6db5d883372204ac28dd7&scene=178&cur_album_id=4182236262146719756&search_click_id=#rd>`_    
 

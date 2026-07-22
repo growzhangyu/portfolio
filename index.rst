@@ -15,6 +15,6 @@ This portfolio includes technical documentation projects, communication-focused 
    :maxdepth: 2
    :titlesonly:
 
-   projects
+   documentation_projects/index
    english_learning/index
    about_me/index
