@@ -40,14 +40,6 @@ Focus:
 
   .. centered:: `12 Skeleton for Part 1 and Part 2 <https://mp.weixin.qq.com/s/ZAn6VSyVgCngDfDKGsACJA>`_
 
-.. 我在自学口语过程中遇到的多个问题及解决方案
-.. https://mp.weixin.qq.com/s/F7fdo0hMlcuHYHXb0DlTnw
-
-.. Part 2分解示例：客观题的应对方法
-.. https://mp.weixin.qq.com/s/HVjpXjV_DqPUXediWIGVCw
-
-.. AI 练口语应遵循的二八法则
-.. https://mp.weixin.qq.com/s/QEddIX-ZvCYdaN-_OXYBcg
 
 - **IELTS Speaking Strategy for Part 1**  
   
@@ -66,6 +58,31 @@ Focus:
   .. centered:: `The Three-Sentence Method for Part 1 <https://mp.weixin.qq.com/s/hDjjtV60EDj893MD8g0UdA>`_   
 
 
+- **Part 2 Deliberate Practice: Leaving Enough Time for Personal Feelings**
+
+  *Focus*:
+
+    Analyzing the structure of IELTS Speaking Part 2 answers when telling a story. Identifying a common mistake: spending too much time describing factual details while leaving insufficient time for personal feelings and reflections.
+
+    This practice emphasizes the importance of reserving around 30 seconds for the reflection part, which provides more opportunities to demonstrate authentic communication, extend ideas naturally, and showcase higher-level speaking skills.
+
+  *Featured Example*:
+
+  .. image:: _static/dinner.png
+     :width: 50%
+     :align: center
+
+  .. centered:: `Example 1: Personal Feelings — A Special Dinner <https://mp.weixin.qq.com/s/t9PUinffqYxOsQ8Rysw68w>`_
+
+
+  .. image:: _static/break.png
+     :width: 50%
+     :align: center
+
+  .. centered:: `Example 2: Personal Reflection — A Time You Broke Something <https://mp.weixin.qq.com/s/R41nna3G7RaP_mMuRNLOMg>`_
+
+
+
 - **Part 2 Intensive Practice: Building a Logical Framework**  
   
   *Focus*: 
@@ -82,6 +99,15 @@ Focus:
 
   .. centered:: `A Structured Framework for Part 2 Answers   <https://mp.weixin.qq.com/s/-sll7NwcCuzkk7nSg7THHA>`_ 
 
+
+.. 我在自学口语过程中遇到的多个问题及我如何解决
+.. https://mp.weixin.qq.com/s/F7fdo0hMlcuHYHXb0DlTnw
+
+.. Part 2分解示例：客观题的应对方法-一支护手霜
+.. https://mp.weixin.qq.com/s/HVjpXjV_DqPUXediWIGVCw
+
+.. AI 练口语应遵循的二八法则
+.. https://mp.weixin.qq.com/s/QEddIX-ZvCYdaN-_OXYBcg
 
 
 - **Imitation Practice: Building Mouth Muscles for Speaking**  
