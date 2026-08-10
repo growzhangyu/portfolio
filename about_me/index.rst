@@ -16,6 +16,7 @@ This period allowed me to:
 - Develop consistent self-directed learning strategies.  
 - Reflect on career goals and transition plans.
 
+.. Developed and maintained technical documentation for scientific software products, including user guides, tutorials, troubleshooting documentation, and parameter references.
 
 .. admonition:: Career Overview
    :class: important

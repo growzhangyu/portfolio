@@ -25,6 +25,27 @@ Focus:
   .. centered:: `5 Perspectives for Generating Natural Answers <https://mp.weixin.qq.com/s?__biz=Mzg4Nzc2MjI0Mw==&mid=2247487302&idx=1&sn=30eea1b0cbc7c1b8546d5bd3f7b7d09d&chksm=cf84336af8f3ba7c66b628a2abc87a69da1bf79b8f599572a12bc6bfbbd6fe17d234dc2f3935&scene=178&cur_album_id=4182235489874690065&search_click_id=#rd>`_  
   
 
+- **From Over-polishing to a Stable Speaking System**
+
+  *Focus*:
+
+  Building a sustainable speaking practice system by learning when to stop polishing and start reusing.
+
+  A common challenge in speaking practice is the tendency to create a completely new answer every time and spend excessive time refining each response. Although authentic expression is important, constant improvement requires more than producing new answers. It requires repetition, reuse, and consolidation.
+
+  This practice focuses on transforming useful expressions into reusable language resources. Instead of endlessly improving one answer, learners can apply valuable expressions to new topics, gradually building stable output patterns and speaking confidence.
+
+  *Featured Example*:
+
+  .. image:: _static/reuse.png
+     :width: 50%
+     :align: center
+
+  .. centered:: `From Over-polishing to Reusable Expression <https://mp.weixin.qq.com/s/F7fdo0hMlcuHYHXb0DlTnw>`_  
+  
+  .. 下次再用 & 固定稳定输出框架
+
+
 - **IELTS Speaking Skeleton Framework**
 
   *Focus*:
@@ -99,16 +120,7 @@ Focus:
 
   .. centered:: `A Structured Framework for Part 2 Answers   <https://mp.weixin.qq.com/s/-sll7NwcCuzkk7nSg7THHA>`_ 
 
-
-.. 我在自学口语过程中遇到的多个问题及我如何解决
-.. https://mp.weixin.qq.com/s/F7fdo0hMlcuHYHXb0DlTnw
-
-.. Part 2分解示例：客观题的应对方法-一支护手霜
-.. https://mp.weixin.qq.com/s/HVjpXjV_DqPUXediWIGVCw
-
-.. AI 练口语应遵循的二八法则
-.. https://mp.weixin.qq.com/s/QEddIX-ZvCYdaN-_OXYBcg
-
+.. TBC：Part 2 护手霜分解示例
 
 - **Imitation Practice: Building Mouth Muscles for Speaking**  
 

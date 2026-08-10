@@ -1,5 +1,5 @@
 Writing
-========
+==============
 
 Focus: 
 --------
@@ -35,6 +35,25 @@ Focus:
 
 
   .. centered:: `How to brainstorm ideas: Using Clean Water As an Example <https://mp.weixin.qq.com/s?__biz=Mzg4Nzc2MjI0Mw==&mid=2247484420&idx=1&sn=75a058f67b76193b4b337c40ba7adf78&chksm=cf843828f8f3b13e18052afe2ed6911b5d8a775336884c7fd3884d046f26e168c6e1f784dac8&scene=178&cur_album_id=4182238418706841611&search_click_id=#rd>`_     
+
+
+- **Choosing a Big Claim for Strong Topic Sentences**
+
+  *Focus*:
+
+    Building stronger topic sentences by choosing a big claim that can naturally guide explanations and examples.
+
+    A common challenge in IELTS Writing Task 2 is having several related ideas but struggling to decide which one should become the topic sentence. The key is to choose a broad claim that controls the paragraph, rather than a specific example or supporting detail.
+
+  *Featured Example*:
+
+  .. image:: _static/bigclaim.png
+     :width: 50%
+     :align: center
+
+  .. centered:: `How to Choose a Big Claim for a Topic Sentence <https://mp.weixin.qq.com/s/mdxrhqENE6fEcZ3Yp0RhfA>`_    
+
+
 
 - **IELTS Writing Structural Framework**  
 
@@ -84,3 +103,21 @@ Focus:
 
   .. centered:: `24 Core Topics for Writing Improvement  <https://mp.weixin.qq.com/s/1HmF9hwDVbvP0EZclH6SyA>`_   
 
+
+- **Writing and Speaking Are Deeply Connected**
+
+  *Focus*:
+
+   ILT training reminds us that speaking, writing, listening, and reading are interconnected skills.
+   Writing and speaking are especially closely related, and different goals require different training priorities.
+
+  *Featured Example*:
+
+  .. image:: _static/WS_English.png
+     :width: 50%
+     :align: center
+
+  .. centered:: `Writing is the Scaffolding <https://mp.weixin.qq.com/s/-Asw21G-JBMRzqFlq5xCHg>`_
+
+.. 写作和口语的关系
+.. https://mp.weixin.qq.com/s/-Asw21G-JBMRzqFlq5xCHg
