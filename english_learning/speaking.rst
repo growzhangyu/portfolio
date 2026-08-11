@@ -11,10 +11,11 @@ Focus:
 
   *Focus*:
    
-   Developing authentic spoken responses through five thinking frameworks: examining 
-   internal and external factors, moving from general ideas to specific details, 
+   Developing authentic spoken responses through five thinking frameworks:
+   
+   **examining internal and external factors, moving from general ideas to specific details, 
    using concessions, creating "it depends" scenarios, and drawing on a personal 
-   interest bank.
+   interest bank.**
 
   *Featured Example*:
 
@@ -29,11 +30,11 @@ Focus:
 
   *Focus*:
 
-  Building a sustainable speaking practice system by learning when to stop polishing and start reusing.
+   Building a sustainable speaking practice system by **learning when to stop polishing and start reusing**.
 
-  A common challenge in speaking practice is the tendency to create a completely new answer every time and spend excessive time refining each response. Although authentic expression is important, constant improvement requires more than producing new answers. It requires repetition, reuse, and consolidation.
-
-  This practice focuses on transforming useful expressions into reusable language resources. Instead of endlessly improving one answer, learners can apply valuable expressions to new topics, gradually building stable output patterns and speaking confidence.
+   A common challenge in speaking practice is the tendency to create a completely new answer every time and spend excessive time refining each response. 
+   
+   Although authentic expression is important, constant improvement requires more than producing new answers. **It requires repetition, reuse, and consolidation**.
 
   *Featured Example*:
 
@@ -51,7 +52,7 @@ Focus:
   *Focus*:
    
    Understanding why spoken answers easily break down under pressure, and building a stable sentence skeleton for 
-   IELTS Speaking Part 1 and Part 2 through 12 safe sentence patterns and 3 exam-mode rules.
+   IELTS Speaking Part 1 and Part 2 through **12 safe sentence patterns and 3 exam-mode rules**.
 
   *Featured Example*:
 
@@ -66,8 +67,7 @@ Focus:
   
   *Focus*: 
     
-    Building controllable and comprehensive answer structures
-    under time pressure  
+    Building controllable and comprehensive answer structures under time pressure  
 
   *Featured Example*:
 
@@ -83,9 +83,9 @@ Focus:
 
   *Focus*:
 
-    Analyzing the structure of IELTS Speaking Part 2 answers when telling a story. Identifying a common mistake: spending too much time describing factual details while leaving insufficient time for personal feelings and reflections.
+    Analyzing the structure of IELTS Speaking Part 2 answers when **telling a story**. Identifying a common mistake: spending too much time describing factual details while leaving insufficient time for personal feelings and reflections.
 
-    This practice emphasizes the importance of reserving around 30 seconds for the reflection part, which provides more opportunities to demonstrate authentic communication, extend ideas naturally, and showcase higher-level speaking skills.
+    This practice emphasizes the importance of **reserving around 30 seconds for the reflection part**, which provides more opportunities to demonstrate authentic communication, extend ideas naturally, and showcase higher-level speaking skills.
 
   *Featured Example*:
 
@@ -108,8 +108,7 @@ Focus:
   
   *Focus*: 
     
-    Understanding how to structure Part 2 answers logically
-    and deliver detailed responses within two minutes   
+    Understanding how to structure Part 2 answers **logically** and deliver detailed responses within two minutes   
   
   *Featured Example*:
 

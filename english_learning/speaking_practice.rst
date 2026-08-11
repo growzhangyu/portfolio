@@ -13,9 +13,11 @@ Focus:
 
   *Focus*:
 
-    Speaking requires more than vocabulary and grammar. It involves five essential abilities: improvisation, emotional tolerance, real-time processing, social interaction, and ambiguity handling.
+    Speaking requires more than vocabulary and grammar. It involves five essential abilities: 
+    
+    **improvisation, emotional tolerance, real-time processing, social interaction, and ambiguity handling**.
 
-    This article focuses on emotional tolerance and ambiguity handling: the ability to stay engaged when communication is imperfect, information is incomplete, or progress feels uncertain.
+    This article focuses on emotional tolerance and ambiguity handling: the ability to **stay engaged when communication is imperfect, information is incomplete, or progress feels uncertain**.
 
   *Featured Example*:
 
@@ -30,7 +32,8 @@ Focus:
 
   *Focus*:
 
-    Authentic language skills come from deliberate exposure to diverse topics and expressing opinions.
+    Authentic language skills come from **deliberate exposure to diverse topics and expressing opinions**.
+
     1st-Class Practice drives real progress, while 2nd-Class Practice helps maintain daily speaking habits.
 
   *Featured Example*:
@@ -49,9 +52,9 @@ Focus:
 
   *Focus*:
 
-  Learning to transform input into reusable output instead of endlessly collecting information.
+   Learning to **transform input into reusable output** instead of endlessly collecting information.
 
-  Effective practice requires the right balance: limited input, active speaking, and repeated reuse of valuable expressions.
+   Effective practice requires the right balance: **limited input, active speaking, and repeated reuse of valuable expressions**.
 
   *Featured Example*:
 
@@ -67,7 +70,7 @@ Focus:
 
   *Focus*:
 
-    Developing an information organization strategy by learning to deliver core messages first instead of overwhelming listeners with unnecessary details.
+    Developing an information organization strategy by learning to **deliver core messages first instead of overwhelming listeners with unnecessary details**.
 
     This approach applies to both speaking and writing: prioritize essential information before adding supporting background.
   
@@ -89,10 +92,13 @@ Focus:
   *Focus*:
 
     Training the brain to think in a structured way before speaking by following a simple communication framework:
-    **My point is that... → The main reason is that... → For instance... → So overall...**
+    
+    **My point is that...  The main reason is that...  For instance...  So overall...**
+    
     Rather than memorizing fixed expressions, this practice develops the habit of presenting ideas clearly,  
-    supporting them logically, and expanding naturally. The same thinking framework can be applied across 
-    both speaking and writing tasks.
+    supporting them logically, and expanding naturally. 
+    
+    The same thinking framework can be applied across both speaking and writing tasks.
 
   *Featured Example*:
 
@@ -108,9 +114,10 @@ Focus:
 
   *Focus*:
 
-    Maximizing the value of each learning resource by transforming a single piece of input into multiple 
-    forms of output (Speaking, Writing, Listening, and Reading). This approach encourages active language 
-    use, deeper comprehension, and stronger connections between language learning and real-world communication.
+    Maximizing the value of each learning resource by **transforming a single piece of input into multiple 
+    forms of output** (Speaking, Writing, Listening, and Reading). 
+    
+    This approach encourages active language use, deeper comprehension, and stronger connections between language learning and real-world communication.
 
   *Featured Example*:
 
@@ -127,7 +134,9 @@ Focus:
 
   *Focus*:
 
-    Many learners understand English well but struggle to begin speaking consistently. This example demonstrates how AI can be used as a low-pressure conversation partner to reduce resistance, create authentic interaction, and encourage spontaneous communication. The goal is not only language improvement but also developing a sustainable habit of speaking English regularly.
+    Many learners understand English well but struggle to begin speaking consistently. This example demonstrates **how AI can be used as a low-pressure conversation partner** to reduce resistance, create authentic interaction, and encourage spontaneous communication. 
+    
+    The goal is not only language improvement but also developing a sustainable habit of speaking English regularly.
 
   *Featured Example*:
 
@@ -142,9 +151,9 @@ Focus:
 
   *Focus*:
 
-    Using AI effectively for speaking practice by avoiding passive language collection.
+    Using AI effectively for speaking practice by **avoiding passive language collection**.
 
-    The key strategy is an 80/20 balance: spend most of the time speaking, and let AI provide feedback and guidance.
+    The key strategy is an 80/20 balance: **spend most of the time speaking**, and let AI provide feedback and guidance.
 
   *Featured Example*:
 

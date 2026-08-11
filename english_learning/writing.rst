@@ -41,9 +41,11 @@ Focus:
 
   *Focus*:
 
-    Building stronger topic sentences by choosing a big claim that can naturally guide explanations and examples.
+    Building stronger topic sentences by **choosing a big claim** that can naturally guide explanations and examples.
 
-    A common challenge in IELTS Writing Task 2 is having several related ideas but struggling to decide which one should become the topic sentence. The key is to choose a broad claim that controls the paragraph, rather than a specific example or supporting detail.
+    A common challenge in IELTS Writing Task 2 is having several related ideas but struggling to decide which one should become the topic sentence. 
+    
+    The key is to **choose a broad claim that controls the paragraph**, rather than a specific example or supporting detail.
 
   *Featured Example*:
 
@@ -75,8 +77,9 @@ Focus:
   
   *Focus*: 
     
-    Providing a reusable 'mechanism chain' template that breaks abstract 
-    conclusions (e.g., identity,wellbeing,development) into clear steps
+    Providing a reusable 'mechanism chain' template that **breaks abstract conclusions into clear steps**
+
+    (e.g., identity, wellbeing, development) 
   
   *Featured Example*:
 
@@ -92,7 +95,7 @@ Focus:
   
   *Focus*: 
     
-    Building topic-related collocations through intensive writing practice  
+    Building **topic-related collocations** through intensive writing practice  
   
   *Featured Example*:
 
@@ -109,6 +112,7 @@ Focus:
   *Focus*:
 
    ILT training reminds us that speaking, writing, listening, and reading are interconnected skills.
+   
    Writing and speaking are especially closely related, and different goals require different training priorities.
 
   *Featured Example*:
