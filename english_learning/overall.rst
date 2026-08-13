@@ -4,12 +4,55 @@ Overall
 Focus: 
 --------
 .. rubric:: time management, personal growth, practical life insights, and motivation management 
+  
 
 - **High-quality English Learning Resources Covering and Personal Growth and Self-management**   
   
   *Focus*: 
     
     Personal development topics such as planning, stress management, emotional regulation, overcoming procrastination and building sustainable motivation  
+  
+  
+  *Featured Example*:
+
+  .. image:: _static/foresight.png
+   :width: 50%
+   :align: center
+
+
+  .. centered:: `Build Foresight  <https://mp.weixin.qq.com/s/v8okN1ZSTb71DGKbqlXz-g>`_ 
+
+  
+  *Featured Example*:
+
+  .. image:: _static/concrete.png
+   :width: 50%
+   :align: center
+
+
+  .. centered:: `Make the Future Concrete  <https://mp.weixin.qq.com/s/h2w65Ct8Twpb0KlXsAOYNg>`_ 
+
+
+  *Featured Example*:
+
+  .. image:: _static/reading.png
+   :width: 50%
+   :align: center
+
+
+  .. centered:: `Reading Improves Sleep Quality  <https://mp.weixin.qq.com/s/XccL2ARo8_BfOh5Zgu_ScA>`_ 
+
+
+  *Featured Example*:
+
+  .. image:: _static/timer.png
+   :width: 50%
+   :align: center
+
+
+  .. centered:: `Set a Timer  <https://mp.weixin.qq.com/s/pY2VNGE4It6mtoDmJ1tVSQ>`_ 
+
+
   
   *Featured Example*:
 

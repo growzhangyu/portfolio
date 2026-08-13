@@ -13,9 +13,11 @@ Focus:
    
    Developing authentic spoken responses through five thinking frameworks:
    
-   **examining internal and external factors, moving from general ideas to specific details, 
-   using concessions, creating "it depends" scenarios, and drawing on a personal 
-   interest bank.**
+   - **examining internal and external factors**
+   - **moving from general ideas to specific details**
+   - **using concessions**
+   - **creating "it depends" scenarios**
+   - **drawing on a personal interest bank.**
 
   *Featured Example*:
 
