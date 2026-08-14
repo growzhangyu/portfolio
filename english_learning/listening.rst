@@ -5,6 +5,24 @@ Focus:
 ---------
 .. rubric:: real-world comprehension, error pattern recognition, and exposure to authentic English.
 
+- **Intensive Listening: From Audio to Reusable Language**
+
+  *Focus*:
+
+   Turning podcast listening into active language learning through dictation, phrase mining, and repeated listening.
+
+   Each sentence is carefully listened to and transcribed, with useful phrases and sentence patterns highlighted for future reuse.
+
+  *Featured Example*:
+
+  .. image:: _static/loneliness.png
+     :width: 50%
+     :align: center
+
+  .. centered:: `Intensive Listening: Loneliness, Modern Life & Language <https://mp.weixin.qq.com/s/u-EV_VuFUQIVf6HNlQsuUQ>`_
+
+
+
 - **IELTS Listening Practice: Real Exam Materials**
 
 *Focus*:
